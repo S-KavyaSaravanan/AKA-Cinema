@@ -1,0 +1,37 @@
+.formDiv {    
+    padding: 21px;    
+     border-radius: 5px;    
+     
+    }    
+    
+    input[type=text1], select     
+    {    
+      width: 30%;    
+      padding: 12px 20px;    
+      margin: 8px 0;    
+      display: inline-block;    
+      border: 1px solid #ccc;    
+      border-radius: 4px;    
+      box-sizing: border-box;    
+    }    
+        
+    input[type=button] {    
+      width: 100%;    
+      background-color: white;    
+      color: #00FFBF;    
+      padding: 14px 20px;    
+      margin: 8px 0;    
+      border: 30px;    
+      border-radius: 8px;
+      border-color: #00FFBF;   
+      cursor: pointer;    
+    }    
+        
+    input[type=button]:hover {    
+      background-color: #45a049;    
+    }    
+    .showError{    
+      border-color: #a94442 !important;    
+      color: #a94442 !important;    
+      margin-bottom: 15px;    
+    }
